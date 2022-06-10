@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/xcellence/static/css/main.7709a309.css",
+    "main.js": "/xcellence/static/js/main.d2f0beaf.js",
+    "static/media/bg1.png": "/xcellence/static/media/bg1.8b4f4f0757b6da3914f5.png",
+    "static/media/banner.png": "/xcellence/static/media/banner.39db54a996dcf9c8f582.png",
+    "static/media/bg2.png": "/xcellence/static/media/bg2.9b320e5071889be9ab9f.png",
+    "index.html": "/xcellence/index.html",
+    "main.7709a309.css.map": "/xcellence/static/css/main.7709a309.css.map",
+    "main.d2f0beaf.js.map": "/xcellence/static/js/main.d2f0beaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7709a309.css",
+    "static/js/main.d2f0beaf.js"
+  ]
+}
