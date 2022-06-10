@@ -1,38 +1,61 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+}
+html {
+  font-size: 10px;
+}
+.container{
+  padding: 12.2rem;
+}
+h2 {
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 6rem;
+  color: #fff;
+}
+h4{
+  font-size: 30px;
+  font-family: "Orbitron", sans-serif;
+}
+h5{
+  font-size: 1.6rem;
+  font-weight: 400;
+}
+p{
+  font-size: 2rem;
+  font-weight: 300;
+}
+h6{
+  font-size: 1.8rem;
+  font-weight: 300;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+
+
+
+
+@media only screen and (max-width: 420px) {
+  .container{
+    padding: 0;
   }
+ .teamcon{
+   margin-left: 0px !important;
+ }
+.innerbannerarea h2{
+  font-size: 4rem;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.innerbannerarea .subcontent {
+  padding-top: 13.6rem;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

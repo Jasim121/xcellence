@@ -1,0 +1,310 @@
+.navbar {
+  background-color: #0C1116;
+  padding: 3rem 4rem;
+}
+
+.navbar .nav-item {
+  padding-right: 15rem;
+  font-family: "Orbitron", sans-serif;
+  font-size: 1.6rem;
+}
+
+.navbar .navbar-nav a {
+  color: #fff;
+}
+
+.navbar .navbutton {
+  border: none;
+  border: 1px solid #EFA00B;
+  background: transparent;
+  color: #EFA00B;
+  font-size: 1.2rem;
+  padding: 1rem 1rem;
+  border-radius: 10px;
+}
+
+.banner {
+  background: url(../../public/images/banner.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bannerbutton {
+  margin-top: 3rem;
+  border-radius: 1.5rem;
+}
+
+.playbt {
+  cursor: pointer;
+  border: 0.5px solid #EFA00B;
+  border-radius: 1rem;
+}
+
+.innerbannerarea {
+  width: 140.8rem;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.innerbannerarea .maincon {
+  padding-top: 23rem;
+}
+
+.innerbannerarea .imgarea {
+  padding-top: 13rem;
+  padding-bottom: 10.8%;
+}
+
+.innerbannerarea .subcontent {
+  padding-top: 33.6rem;
+}
+
+.innerbannerarea .subcontent h6 {
+  color: #fff;
+  font-size: 2.4rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-weight: 700;
+}
+
+.innerbannerarea .subcontent h2 {
+  font-weight: 700;
+  font-size: 5.6rem;
+  font-family: "Poppins", sans-serif;
+  color: #EFA00B;
+}
+
+.innerbannerarea .subcontent h5 {
+  color: #EFA00B;
+}
+
+.innerbannerarea h5 {
+  color: #fff;
+}
+
+.highlights {
+  background: url(../../public/images/bg1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-bottom: 14.4rem;
+}
+
+.innerhighlights {
+  width: 140.8rem;
+  max-width: 100%;
+}
+
+.leftArea h6:nth-child(2) {
+  line-height: 150%;
+  margin-top: 13rem;
+}
+
+.leftArea h6 {
+  margin-top: 3rem;
+}
+
+.rightArea h6:nth-child(1) {
+  line-height: 150%;
+  margin-top: 15.7rem;
+}
+
+.rightArea h6 {
+  color: #1D9BF0;
+  text-align: right;
+  margin-top: 3rem;
+}
+
+.overview {
+  background-color: #0C1116;
+}
+
+.overview h4 {
+  color: #fff;
+}
+
+.overview p {
+  color: #fff;
+}
+
+.overview span {
+  font-weight: bold;
+}
+
+.inneroverview {
+  width: 103rem;
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 9.6rem 0;
+}
+
+.prosoluarea {
+  background: url(../../public/images/bg2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.innerprosoluarea {
+  width: 140.8rem;
+  margin: 0 auto;
+  padding: 13rem 0;
+  max-width: 100%;
+}
+
+.innerprosoluarea .bottom {
+  margin-top: 34rem;
+}
+
+.innerprosoluarea span {
+  font-weight: bold;
+}
+
+.features {
+  background: url(../../public/images/bg1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.innerfeatures {
+  width: 140.8rem;
+  margin: 0 auto;
+  padding: 5rem 0;
+  max-width: 100%;
+}
+
+.innerfeatures img {
+  margin-top: -21.5rem;
+}
+
+.innerfeatures h4 {
+  margin-top: -2rem;
+}
+
+.innerfeatures h6 {
+  margin-top: 1.8rem;
+}
+
+.innerrevenu {
+  width: 140.8rem;
+  margin: 0 auto;
+  padding: 5rem 0;
+  max-width: 100%;
+}
+
+.innerrevenu p {
+  margin-top: 1.8rem;
+}
+
+.market {
+  background-color: #000;
+}
+
+.market h4 {
+  color: #fff;
+}
+
+.market p {
+  color: #fff;
+}
+
+.market .marketoverview {
+  width: 103rem;
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 9.6rem 0;
+}
+
+.compitition {
+  width: 140.8rem;
+  margin: 0 auto;
+  padding: 15rem 0;
+  max-width: 100%;
+}
+
+.compitition span {
+  font-weight: bold;
+}
+
+.innerComparables {
+  width: 140.8rem;
+  margin: 0 auto;
+  padding: 5rem 0;
+  max-width: 100%;
+}
+
+.table {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.table .firstTable:nth-child(1) {
+  text-align: left;
+}
+
+.table th {
+  color: #55585C;
+  font-size: 1.8rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+}
+
+.table td {
+  color: #000;
+  font-size: 1.5rem;
+  line-height: 2.7rem;
+  padding: 2rem 0;
+}
+
+.table .competitor {
+  color: #55585C;
+  width: 20rem;
+  padding: 2rem 1.5rem;
+}
+
+.table thead {
+  border-top: #fff;
+  border-left: #fff;
+  border-right: #fff;
+}
+
+.innerfinancing {
+  width: 140.8rem;
+  margin: 0 auto;
+  padding: 15rem 0;
+  max-width: 100%;
+}
+
+.innerteam {
+  width: 140.8rem;
+  margin: 0 auto;
+  padding: 15rem 0;
+  max-width: 100%;
+}
+
+.teamcon {
+  width: 68rem;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: left;
+  margin-left: 7rem;
+}
+
+.teamcon {
+  margin-bottom: 12rem;
+}
+
+.teamcon:nth-child(1) {
+  margin-bottom: 0px;
+}
+
+.innerteam p:nth-child(1) {
+  font-weight: bold;
+}
+/*# sourceMappingURL=mainstyle.css.map */

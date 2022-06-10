@@ -1,0 +1,29 @@
+@media only screen and (max-width: 768px) {
+  .innerbannerarea .imgarea {
+    padding-top: 6rem;
+    padding-bottom: 0%;
+  }
+  .innerbannerarea .subcontent {
+    padding-top: 2.6rem;
+    padding-bottom: 3rem;
+  }
+  .innerprosoluarea .bottom {
+    margin-top: 3rem;
+  }
+  .innerfeatures img {
+    margin-top: 2rem;
+    margin-bottom: 8rem;
+  }
+  .innerbannerarea {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */

@@ -1,0 +1,285 @@
+.navbar{
+    background-color: #0C1116;
+    padding: 3rem 4rem;
+    .nav-item{
+        padding-right: 15rem;
+        font-family: "Orbitron", sans-serif;
+        font-size: 1.6rem;
+    }
+.navbar-nav a{
+    color: #fff;
+}
+.navbutton{
+   border: none;
+   border: 1px solid #EFA00B;
+   background: transparent;
+   color: #EFA00B;
+   font-size: 1.2rem;
+   padding: 1rem 1rem;
+   border-radius: 10px;
+}
+}
+// banner
+.banner{
+    background: url(../../public/images/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bannerbutton{
+margin-top: 3rem;
+border-radius: 1.5rem;
+}
+.playbt{
+    cursor: pointer;
+    border: 0.5px solid #EFA00B;
+    border-radius: 1rem;
+}
+.innerbannerarea{
+    width: 140.8rem;
+    margin: 0 auto;
+    max-width: 100%;
+.maincon{
+    padding-top: 23rem;
+    
+}
+.imgarea{
+    padding-top: 13rem;
+    padding-bottom: 10.8%;
+}
+.subcontent{
+    padding-top: 33.6rem;
+    h6{
+        color: #fff;
+        font-size: 2.4rem;
+        display: flex;
+        align-items: center;
+        font-weight: 700;
+    }
+    h2{
+        font-weight: 700;
+        font-size: 5.6rem;
+         font-family: "Poppins", sans-serif;
+         color: #EFA00B;
+    }
+    h5{
+        color: #EFA00B;
+    }
+}
+    h5{
+        color: #fff;
+    }
+}
+
+// highlights
+.highlights{
+    background: url(../../public/images/bg1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    padding-bottom: 14.4rem;
+}
+.innerhighlights{
+    width: 140.8rem;
+    max-width: 100%;
+}
+.leftArea{
+    h6:nth-child(2){
+        line-height: 150%;
+        margin-top: 13rem;
+    }
+    h6{
+        margin-top: 3rem;
+    }
+}
+.rightArea{
+
+    
+    h6:nth-child(1){
+        line-height: 150%;
+        margin-top: 15.7rem;
+    }
+    h6{
+        color: #1D9BF0;
+        text-align: right;
+        margin-top: 3rem;
+    }
+}
+
+
+// overview
+.overview{
+    background-color: #0C1116;
+    h4{
+        color: #fff;
+    }
+    p{
+        color: #fff;
+    }
+    span{
+        font-weight: bold;
+    }
+  }
+  .inneroverview{
+      width: 103rem;
+      margin: 0 auto;
+      max-width: 100%;
+      padding: 9.6rem 0;
+  }
+
+.prosoluarea{
+    background: url(../../public/images/bg2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+  .innerprosoluarea{
+      width: 140.8rem;
+      margin: 0 auto;
+      padding: 13rem 0;
+      max-width: 100%;
+      .bottom{
+          margin-top: 34rem;
+      }
+      span{
+          font-weight: bold;
+      }
+  }
+// end populararea
+
+// features
+.features{
+    background: url(../../public/images/bg1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+  .innerfeatures{
+      width: 140.8rem;
+      margin: 0 auto;
+      padding: 5rem 0;
+      max-width: 100%;
+  img{
+      margin-top: -21.5rem;
+  }
+  h4{
+      margin-top: -2rem;
+  }
+  h6{
+      margin-top: 1.8rem;
+  }
+  }
+// end features
+// .revenu{
+  .innerrevenu{
+      width: 140.8rem;
+      margin: 0 auto;
+      padding: 5rem 0;
+      max-width: 100%;
+  p{
+      margin-top: 1.8rem;
+  }
+  }
+
+// revenu
+
+// market
+.market{
+    background-color: #000;
+    h4{
+        color: #fff;
+    }
+    p{
+        color: #fff;
+    }
+    .marketoverview{
+        width: 103rem;
+        margin: 0 auto;
+        max-width: 100%;
+        padding: 9.6rem 0;
+    }
+}
+// end market
+
+// Competition
+.compitition{
+    width: 140.8rem;
+    margin: 0 auto;
+    padding: 15rem 0;
+    max-width: 100%;
+    span{
+        font-weight: bold;
+    }
+}
+// end Competition
+// Comparables
+.innerComparables{
+    width: 140.8rem;
+    margin: 0 auto;
+    padding: 5rem 0;
+    max-width: 100%; 
+}
+
+// table
+
+.table{
+    max-width: 90%;
+    margin: 0 auto;
+    .firstTable:nth-child(1){
+        text-align: left;
+    }
+    th{
+        color: #55585C;
+        font-size: 1.8rem;
+        font-family: "Poppins", sans-serif;
+        font-weight: normal;
+    }
+    td{
+        color: #000;
+        font-size: 1.5rem;
+        line-height: 2.7rem;
+        padding: 2rem 0;
+    }
+    .competitor{
+        color: #55585C; 
+        width: 20rem;
+        padding: 2rem 1.5rem;
+    }
+    thead{
+        border-top: #fff;
+        border-left: #fff;
+        border-right:#fff
+    }
+}
+
+// end milestones
+.innerfinancing{
+    width: 140.8rem;
+    margin: 0 auto;
+    padding: 15rem 0;
+    max-width: 100%;
+}
+// team
+.innerteam{
+    width: 140.8rem;
+    margin: 0 auto;
+    padding: 15rem 0;
+    max-width: 100%;
+}
+.teamcon{
+    width: 68rem;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 7rem;
+}
+.teamcon{
+    margin-bottom: 12rem;
+}
+.teamcon:nth-child(1){
+    margin-bottom: 0px;
+}
+.innerteam p:nth-child(1){
+   font-weight: bold;
+}
+// endteam
